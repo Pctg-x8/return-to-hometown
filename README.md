@@ -14,6 +14,6 @@
 
 ### Building
 1. Make "as" folder in ./roadbike_s3d.
-1. Copy (AngelScriptDir)/include,lib,add_on folders into ./roadbike_s3d/as.
-2. Open ./roadbike_s3d.sln
-3. Just hit F5
+2. Copy (AngelScriptDir)/include,lib,add_on folders into ./roadbike_s3d/as.
+3. Open ./roadbike_s3d.sln
+4. Just hit F5
